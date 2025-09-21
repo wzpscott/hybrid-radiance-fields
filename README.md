@@ -9,7 +9,7 @@ This the offical code base for "HyRF: Hybrid Radiance Fields for Efficient and H
     ·
     <a href="https://www.danxurgb.net/">Dan Xu</a>
   </p>
-  <p align="center">NeurIPS 2025</p>
+  <h3 align="center">NeurIPS 2025</h3>
 
   <h3 align="center"><a href="">Paper</a> | <a href="https://arxiv.org/pdf/">arXiv</a> | <a href="https://wzpscott.github.io/hyrf/">Project Page</a>  | <a href="https://huggingface.co/ZipW/hybrid-radiance-fields/">HuggingFace</a> </h3>
   <div align="center"></div>
