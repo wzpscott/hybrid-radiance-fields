@@ -21,7 +21,7 @@ TLDR: Radiance fields with SOTA quality, NeRF size and 3DGS speed.
 <br>
 
 
-# Methods
+# Method
 <p align="center">
   <a href="">
     <img src="./assets/framework.png"Logo" width="95%">
