@@ -3,7 +3,7 @@ This the offical code base for "HyRF: Hybrid Radiance Fields for Efficient and H
 
 <p align="center">
 
-  <h1 align="center">HyRF: Hybrid Radiance Fields for Efficient and High-quality Novel View Synthesis</h1>
+  <h1 align="center">HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis</h1>
   <p align="center">
     <a href="https://scholar.google.com/citations?user=3w7X6NYAAAAJ">Zipeng Wang</a>
     ·
