@@ -33,7 +33,7 @@ Our method represents the scene using grid-based neural fields and a set of comp
 
 1. Clone the repository and create an anaconda environment.
 ```
-git clone https://github.com/wzpscott/hybrid-radiance-fields.git
+git clone https://github.com/wzpscott/hybrid-radiance-fields.git --recursive
 cd hybrid-radiance-fields
 
 conda create -y -n hyrf python=3.10
